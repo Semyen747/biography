@@ -11,7 +11,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me/Обо мне :
+### 👲 &nbsp;About Me/Обо мне :
 
 I am a Semyen Leshukov Student of Netology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
 Я Семен Лешуков Студент Нетологии из России, г.Санкт-Петербург.
