@@ -11,7 +11,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### 👲 &nbsp;About Me/Обо мне :
+### 👲About Me/Обо мне :
 
 I am a Semyen Leshukov Student of Netology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
 Я Семен Лешуков Студент Нетологии из России, г.Санкт-Петербург.
@@ -25,8 +25,8 @@ I am a Semyen Leshukov Student of Netology <img src="https://media.giphy.com/med
 
 
 
-### 🛠 &nbsp;Languages and Tools :
-### 🛠 &nbsp;Языки и Программы :
+### 🛠 Languages and Tools :
+### 🛠 Языки и Программы :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -38,8 +38,8 @@ I am a Semyen Leshukov Student of Netology <img src="https://media.giphy.com/med
 
 ---
 
-### 🔥 &nbsp; My Stats :
-### 🔥 &nbsp; Моя статистика :
+### 🔥  My Stats :
+### 🔥  Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Semyen747&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semyen747&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
