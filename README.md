@@ -47,5 +47,5 @@ I am a Semyen Leshukov Student of Netology <img src="https://media.giphy.com/med
 ---
 
 ### ✍️ I m currently in procces of learning, after i m post my diploma project.
-### ✍️ Сейчас я еще в процессе обучения, после я опубликую дипломный проект.
+### ✍️ 25.12.2023 закончил программу обучения на инженера по тестированию ПО.
 
