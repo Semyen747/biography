@@ -46,6 +46,7 @@ I am a Semyen Leshukov Student of Netology <img src="https://media.giphy.com/med
 
 ---
 
-### ✍️ I m currently in procces of learning, after i m post my diploma project.
+### ✍️ I m finished program QAMID 25.12.2023
 ### ✍️ 25.12.2023 закончил программу обучения на инженера по тестированию ПО.
+### https://netology.ru/backend/api/user/programs/29625/pdf_certificate
 
